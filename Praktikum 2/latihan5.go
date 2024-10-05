@@ -5,19 +5,20 @@ import (
 )
 
 func main() {
-	// Deklarasi variabel untuk menyimpan input
 	var a, b, c, d, e int
-	var ch1, ch2, ch3 rune
+	var char1, char2, char3 rune
 
-	// Membaca 5 angka integer
+	fmt.Print("Masukkan 5 angka : ")
 	fmt.Scanf("%d %d %d %d %d", &a, &b, &c, &d, &e)
 
-	// Membaca 3 karakter
-	fmt.Scanf("%c%c%c", &ch1, &ch2, &ch3)
+	fmt.Scanln()
+	fmt.Print("Masukkan 3 karakter : ")
+	fmt.Scanf("%c%c%c", &char1, &char2, &char3)
 
-	// Cetak karakter dari integer
+	fmt.Println()
+	fmt.Print("Outpur dari 5 angka = ")
 	fmt.Printf("%c%c%c%c%c\n", a, b, c, d, e)
 
-	// Geser karakter input satu posisi ke depan
-	fmt.Printf("%c%c%c\n", ch1+1, ch2+1, ch3+1)
+	fmt.Print("Output dari 3 karakter = ")
+	fmt.Printf("%c%c%c\n", char1+1, char2+1, char3+1)
 }

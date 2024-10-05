@@ -13,4 +13,4 @@ func main() {
 }
 ```
 ### 2. Screenshot
-![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/Danendra_Arden_Shaduq_2311102146/blob/main/ss/laprak1.png)
+![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%201/ss/laprak1.png)
