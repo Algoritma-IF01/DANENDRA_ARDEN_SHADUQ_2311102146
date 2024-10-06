@@ -159,7 +159,7 @@ func main() {
 	fmt.Scanf("%c%c%c", &char1, &char2, &char3)
 
 	fmt.Println()
-	fmt.Print("Outpur dari 5 angka = ")
+	fmt.Print("Output dari 5 angka = ")
 	fmt.Printf("%c%c%c%c%c\n", a, b, c, d, e)
 
 	fmt.Print("Output dari 3 karakter = ")
