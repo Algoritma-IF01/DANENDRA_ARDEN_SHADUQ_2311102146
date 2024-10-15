@@ -242,12 +242,15 @@ Output
 Apa saja kesalahan dari program tersebut? Mengapa demikian?
 
 1. Tipe Data yang Tidak Sesuai
+
    Deklarasi variabel `nam` sebagai `float64`, tetapi digunakan pada nilai string (misalnya "A", "B") ke dalamnya.
    
 2. Urutan Kondisi yang Salah
+
    Kondisi `if` tidak ditulis dalam urutan yang benar. Misalnya, jika `nam` lebih besar atau sama dengan 80, maka kondisi untuk nilai lainnya (seperti 72.5, 65, 57.5) juga akan terpenuhi, menyebabkan hasil yang tidak diinginkan.
 
 3. Variabel yang Tidak Digunakan
+
    Variabel `nmk` dideklarasikan tetapi tidak digunakan untuk menyimpan nilai huruf mata kuliah.
 
 Jelaskan alur program seharusnya!
