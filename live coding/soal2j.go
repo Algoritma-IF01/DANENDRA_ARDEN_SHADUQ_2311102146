@@ -4,6 +4,23 @@ import (
 	"fmt"
 )
 
+func hitungBiaya(jumlahMenu int) int {
+	const (
+		biayaDasar      = 10000
+		biayaTambahan   = 2500
+		batasMenu       = 50
+		biayaMax        = 100000
+	)
+
+	if jumlahMenu <= 3 {
+		return biayaDasar
+	} else if jumlahMenu > batasMenu {
+		return biayaMax
+	} else {
+		return biayaDasar + (jumlahMenu-3)*biayaTambahan
+	}
+}
+
 func main() {
 	var M int
 	fmt.Println("Masukkan jumlah rombongan:")
@@ -25,19 +42,3 @@ func main() {
 	}
 }
 
-func hitungBiaya(jumlahMenu int) int {
-	const (
-		biayaDasar      = 10000
-		biayaTambahan   = 2500
-		batasMenu       = 50
-		biayaMax        = 100000
-	)
-
-	if jumlahMenu <= 3 {
-		return biayaDasar
-	} else if jumlahMenu > batasMenu {
-		return biayaMax
-	} else {
-		return biayaDasar + (jumlahMenu-3)*biayaTambahan
-	}
-}
