@@ -1,4 +1,4 @@
-# <h1 align="center">PRAKTIKUM 5</h1>
+# <h1 align="center">PRAKTIKUM - 5</h1>
 <p align="center">DANENDRA ARDEN SHADUQ - 2311102146</p>
 
 ### 1. Latihan 1
