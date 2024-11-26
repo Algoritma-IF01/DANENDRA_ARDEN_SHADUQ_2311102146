@@ -281,7 +281,7 @@ func main() {
 }
 ```
 Output
-![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%206/ss/sl1.png)
+![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%207/ss/sl1.png)
 
 ### 6. Soal 2
 ```GO
@@ -358,7 +358,7 @@ func printResult(odds []int, evens []int) {
 }
 ```
 Output
-![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%206/ss/sl2.png)
+![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%207/ss/sl2.png)
 
 ### 7. Soal 3
 ```GO
@@ -433,7 +433,7 @@ func main() {
 }
 ```
 Output
-![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%206/ss/sl3.png)
+![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%207/ss/sl3.png)
 
 ### 8. Soal 4
 ```GO
@@ -557,4 +557,4 @@ func main() {
 }
 ```
 Output
-![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%206/ss/sl4.png)
+![240302_00h00m06s_screenshot](https://github.com/Algoritma-IF01/DANENDRA_ARDEN_SHADUQ_2311102146/blob/main/Praktikum%207/ss/sl4.png)
